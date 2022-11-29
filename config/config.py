@@ -27,7 +27,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001734555079"))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝐈𝛕ᷟ͢𝚣⃪ꙴ ⋆‌⃝ǫᴜᴇᴇɴ𓃭 ⃟ᴍᴜsɪᴄ⛦⃕͜༆")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5526160404").split())
+    map(int, getenv("OWNER_ID", "5720912393").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -36,7 +36,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ItsVenomOp/VenomXMusic",
+    "https://github.com/Itzvenomo/VenomXMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
