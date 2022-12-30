@@ -8,6 +8,7 @@ hachoir
 heroku3
 lyricsgenius
 motor
+nodejs==16.0
 pillow
 psutil
 py-tgcalls==0.9.1
