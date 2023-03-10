@@ -100,12 +100,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
-        "value": "https://t.me/Itz_venom_family",
+        "value": "https://t.me/Its_Venom_family",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Link of your telegram channel.",
-        "value": "https://t.me/dostokijaan",
+        "value": "https://t.me/Heroku_log",
         "required": false
       }
     },
