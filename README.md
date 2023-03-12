@@ -18,9 +18,15 @@
 ### ғᴇᴀᴛᴜʀᴇs
 
 - [»] sᴜᴩᴩᴏʀᴛs ʟɪᴠᴇ sᴛʀᴇᴀᴍs ᴀʟsᴏ ᴀɴᴅ ᴘʟᴀʏ ʏᴏᴜᴛᴜʙᴇ ᴀs ᴡᴇʟʟ ᴀs sᴘᴏᴛɪғʏ ᴀɴᴅ ᴏᴛʜᴇʀs  🔥
-- [»] sᴀғᴇsᴛ ʙᴏᴛ ᴇᴠᴇʀ ɴᴏᴛ ғᴏʀ ʜᴇʀᴏᴋᴜ🔥
+- [»] sᴀғᴇsᴛ ʙᴏᴛ ᴇᴠᴇʀ ғᴏʀ ʜᴇʀᴏᴋᴜ🔥
 - [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ🔥
 - [»] sᴜᴩᴩᴏʀᴛs ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ 
+
+### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
+  
+  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Itzvenomo/VenomXMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʀᴀɪʟᴡᴀʏ
   
